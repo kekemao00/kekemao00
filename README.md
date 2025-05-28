@@ -71,15 +71,6 @@
 
 </div>
 
-## 🔥 技术专长
-
-<div align="center">
-
-<a href="https://kekemao00.github.io">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kekemao00&repo=kekemao00.github.io&theme=algolia" />
-</a>
-
-</div>
 
 ### 🎧 蓝牙音频设备配套应用
 > **技术负责人** | 移动端开发
