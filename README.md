@@ -1,4 +1,4 @@
-# 👋 你好，我是毛科 (kekemao00)
+# 👋 你好，我是kekemao00
 
 <div align="center">
 
@@ -26,6 +26,8 @@
 ### 🎯 核心技术
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🏗️ 框架与架构
@@ -221,13 +223,17 @@
 
 ## 🎯 技术理念
 
-> **精于技术** - 深入Android内核，精通Kotlin、Java及主流框架，追求代码的极致性能与可维护性
-> 
-> **结果导向** - 以高效完成工作为首要目标，在此基础上追求完美，并乐于分享与共同进步
-> 
-> **独立思考** - 面对技术挑战，优先通过阅读源码、官方文档及实践验证来解决问题
-> 
-> **开阔视野** - 持续关注业界前沿动态，汲取灵感，优化解决方案
+### 💡 精于技术
+深入Android内核，精通Kotlin、Java及主流框架，追求代码的极致性能与可维护性
+
+### 🎯 结果导向
+以高效完成工作为首要目标，在此基础上追求完美，并乐于分享与共同进步
+
+### 🧠 独立思考
+面对技术挑战，优先通过阅读源码、官方文档及实践验证来解决问题
+
+### 🌐 开阔视野
+持续关注业界前沿动态，汲取灵感，优化解决方案
 
 ## 📊 访客统计
 
