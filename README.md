@@ -10,20 +10,6 @@
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kekemao00&theme=algolia)
-
-</div>
-
-## 🏆 GitHub 奖杯
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=kekemao00&theme=algolia&column=7)
-
-</div>
-
 ## 📈 活动图表
 
 <div align="center">
