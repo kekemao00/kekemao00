@@ -10,14 +10,6 @@
 
 </div>
 
-## 📈 活动图表
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kekemao00&theme=react-dark)
-
-</div>
-
 
 ## 📊 访客统计
 
