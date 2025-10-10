@@ -23,7 +23,7 @@
 
 <div align="center">
 
-**感谢访问我的主页！期待与你交流技术！ 😊**
+**感谢访问我的主页！ 😊**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
