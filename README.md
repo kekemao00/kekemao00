@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- 打字机动效标题 -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+kekemao00+%F0%9F%91%8B;Full-Stack+%2F+Open+Source+Enthusiast;Build+%7C+Ship+%7C+Repeat+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
@@ -10,8 +11,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kekemao00&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=prs,issues"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekemao00&layout=compact&langs_count=8&theme=transparent&exclude_repo=kekemao00.github.io&hide=html"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kekemao00&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=prs,issues"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kekemao00&layout=compact&langs_count=8&theme=transparent&hide=html"/>
 
 </div>
 
@@ -27,6 +28,7 @@
 
 <div align="center">
 
+<!-- 按需替换你实际用的技术栈 -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
