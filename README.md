@@ -5,42 +5,35 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub 统计
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kekemao00&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=prs,issues"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kekemao00&layout=compact&langs_count=8&theme=transparent&hide=html"/>
-
-</div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kekemao00&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats-six-delta-29.vercel.app/api?username=kekemao00&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs,issues&show=prs_merged,prs_merged_percentage&rank_icon=percentile&hide_border=true" /> <img height="180em" src="https://github-readme-stats-six-delta-29.vercel.app/api/top-langs/?username=kekemao00&layout=compact&langs_count=8&theme=transparent&hide_border=true&hide=html,css,stylus,powershell,batchfile,makefile" /> </div>
 
----
 
-## 🛠️ Tech Stack
+
+## 🛠️ 技术栈
 
 <div align="center">
 
-<!-- 按需替换你实际用的技术栈 -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
----
+
 
 ## 📈 贡献图
 
@@ -50,7 +43,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
