@@ -72,7 +72,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kekemao00&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kekemao00/kekemao00/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kekemao00/kekemao00/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kekemao00/kekemao00/output/github-snake.svg" alt="Contribution Snake" />
+</picture>
 
 </div>
 
