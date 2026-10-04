@@ -44,19 +44,6 @@
 
 </div>
 
-## 🚀 项目精选
-
-<div align="center">
-
-<a href="https://github.com/kekemao00/ip-tool"><img src="https://github-readme-stats-six-delta-29.vercel.app/api/pin/?username=kekemao00&repo=ip-tool&theme=transparent&hide_border=true" alt="ip-tool" /></a>
-<a href="https://github.com/kekemao00/android-bt-logger"><img src="https://github-readme-stats-six-delta-29.vercel.app/api/pin/?username=kekemao00&repo=android-bt-logger&theme=transparent&hide_border=true" alt="android-bt-logger" /></a>
-<a href="https://github.com/kekemao00/FileToolkit"><img src="https://github-readme-stats-six-delta-29.vercel.app/api/pin/?username=kekemao00&repo=FileToolkit&theme=transparent&hide_border=true" alt="FileToolkit" /></a>
-<a href="https://github.com/kekemao00/ProtonKit"><img src="https://github-readme-stats-six-delta-29.vercel.app/api/pin/?username=kekemao00&repo=ProtonKit&theme=transparent&hide_border=true" alt="ProtonKit" /></a>
-<a href="https://github.com/kekemao00/vps_monitor"><img src="https://github-readme-stats-six-delta-29.vercel.app/api/pin/?username=kekemao00&repo=vps_monitor&theme=transparent&hide_border=true" alt="vps_monitor" /></a>
-<a href="https://github.com/kekemao00/contact-manager-swing"><img src="https://github-readme-stats-six-delta-29.vercel.app/api/pin/?username=kekemao00&repo=contact-manager-swing&theme=transparent&hide_border=true" alt="contact-manager-swing" /></a>
-
-</div>
-
 ## 📊 GitHub 统计
 
 <div align="center">
