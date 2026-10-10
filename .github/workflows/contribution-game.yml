@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate contribution game
 
 on:
   schedule:
@@ -13,14 +13,13 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - name: Generate SVGs from contribution calendar
-        uses: Platane/snk@v3
+      - name: Generate Bomberman SVGs from contribution calendar
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          games: "bomberman"
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4
