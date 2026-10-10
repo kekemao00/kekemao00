@@ -60,9 +60,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kekemao00/kekemao00/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kekemao00/kekemao00/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/kekemao00/kekemao00/output/github-snake.svg" alt="Contribution Snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kekemao00/kekemao00/output/bomberman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kekemao00/kekemao00/output/bomberman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/kekemao00/kekemao00/output/bomberman-contribution-graph.svg" alt="Bomberman Contribution Graph" />
 </picture>
 
 </div>
