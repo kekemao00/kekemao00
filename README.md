@@ -14,10 +14,16 @@
 ## 👨‍💻 关于我
 
 - 📱 主力 **Android / Kotlin** 开发，关注 Jetpack Compose、MVVM / MVI 架构与蓝牙（BLE）调试
-- 🛠️ 喜欢写顺手的小工具：网络诊断、文件处理、服务器监控……
+- 🛠️ 喜欢写顺手的小工具：网络诊断、文件处理、服务器监控，最近也在用 Tauri + Rust 做桌面应用
+- 🤖 用 GitHub Actions + 大模型做无服务器的自动化小机器人
 - 🐳 折腾自托管与 DevOps：Docker Compose、Linux、VPS、Cloudflare
 - 🌱 持续学习中，也在探索 AI 工具在日常开发中的落地
 - 💬 欢迎通过 [Issues](https://github.com/kekemao00/kekemao00/issues) 交流想法
+
+## 🔭 最近在做
+
+- 📅 [**刻忆 Daymark**](https://github.com/kekemao00/daymark)：生日、纪念日只记一次，农历自动换算，提前 1 个月、1 周和当天弹出 Windows 通知（Tauri 2 + Rust + React）
+- 📰 [**digest-bot**](https://github.com/kekemao00/digest-bot)：每天早晚把精选资讯推送到钉钉群，大模型写中文摘要并控制领域占比，全程跑在 GitHub Actions 上（Python）
 
 ## 🛠️ 技术栈
 
@@ -28,18 +34,23 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-**移动端**
+**移动端与桌面**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **工具与运维**
 
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
