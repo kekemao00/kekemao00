@@ -23,6 +23,7 @@
 ## 🔭 最近在做
 
 - 📅 [**刻忆 Daymark**](https://github.com/kekemao00/daymark)：生日、纪念日只记一次，农历自动换算，提前 1 个月、1 周和当天弹出 Windows 通知（Tauri 2 + Rust + React）
+- 🧰 [**File Toolkit 文件全能王**](https://github.com/kekemao00/FileToolkit)：本地处理 PDF、图片、音视频与压缩包的跨平台桌面工具箱，还能把各种文档转成 AI 好读的 Markdown，文件不出本机（Python + Flet）
 - 📰 [**digest-bot**](https://github.com/kekemao00/digest-bot)：每天早晚把精选资讯推送到钉钉群，大模型写中文摘要并控制领域占比，全程跑在 GitHub Actions 上（Python）
 
 ## 🛠️ 技术栈
