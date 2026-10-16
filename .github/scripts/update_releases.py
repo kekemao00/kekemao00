@@ -37,8 +37,16 @@ def main():
 
     now = datetime.now(timezone.utc)
     recent = [r for r in releases if now - r[0] <= timedelta(days=30)]
+    # One line per project: a repo that ships several versions in a day
+    # would otherwise crowd everything else out of the list.
+    latest_per_repo, seen = [], set()
+    for item in releases:
+        if item[1]["name"] not in seen:
+            seen.add(item[1]["name"])
+            latest_per_repo.append(item)
+
     lines = []
-    for published, repo, rel in releases[:LIMIT]:
+    for published, repo, rel in latest_per_repo[:LIMIT]:
         day = published.astimezone(BEIJING).strftime("%Y-%m-%d")
         lines.append(
             f"- 🏷️ [**{repo['name']}**]({repo['html_url']}) "
