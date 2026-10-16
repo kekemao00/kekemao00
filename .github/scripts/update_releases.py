@@ -45,15 +45,15 @@ def main():
             seen.add(item[1]["name"])
             latest_per_repo.append(item)
 
-    lines = []
+    lines = ["| 项目 | 最新版本 | 发布日期 |", "| :-- | :-: | :-: |"]
     for published, repo, rel in latest_per_repo[:LIMIT]:
         day = published.astimezone(BEIJING).strftime("%Y-%m-%d")
         lines.append(
-            f"- 🏷️ [**{repo['name']}**]({repo['html_url']}) "
-            f"[`{rel['tag_name']}`]({rel['html_url']}) · {day}"
+            f"| 🏷️ [**{repo['name']}**]({repo['html_url']}) "
+            f"| [`{rel['tag_name']}`]({rel['html_url']}) | {day} |"
         )
-    if not lines:
-        lines.append("- 暂时还没有发布")
+    if len(lines) == 2:
+        lines.append("| 暂时还没有发布 | – | – |")
     summary = (
         f"<sub>近 30 天在 {len({r[1]['name'] for r in recent})} 个项目里发布了 {len(recent)} 个版本 · "
         "由 GitHub Actions 每 6 小时自动刷新</sub>"
