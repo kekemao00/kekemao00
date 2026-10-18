@@ -8,7 +8,7 @@
 <p>
   <a href="https://github.com/kekemao00?tab=followers"><img src="https://img.shields.io/github/followers/kekemao00?label=Followers&style=flat-square&logo=github&color=58A6FF" alt="Followers" /></a>
   <a href="https://github.com/kekemao00?tab=repositories"><img src="https://img.shields.io/github/stars/kekemao00?affiliations=OWNER&label=Stars&style=flat-square&logo=github&color=58A6FF" alt="Stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kekemao00&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://hits.sh/github.com/kekemao00/"><img src="https://hits.sh/github.com/kekemao00.svg?view=total&style=flat-square&label=Profile%20Views&color=58A6FF&labelColor=555555" alt="Profile Views" /></a>
 </p>
 
 <p>
