@@ -91,7 +91,7 @@
 | 🏷️ [**FileToolkit**](https://github.com/kekemao00/FileToolkit) | [`v1.9.1`](https://github.com/kekemao00/FileToolkit/releases/tag/v1.9.1) | 2026-10-12 |
 | 🏷️ [**daymark**](https://github.com/kekemao00/daymark) | [`v0.1.0`](https://github.com/kekemao00/daymark/releases/tag/v0.1.0) | 2026-10-10 |
 
-<sub>近 30 天在 5 个项目里发布了 30 个版本 · 由 GitHub Actions 每 6 小时自动刷新</sub>
+<sub>近 30 天在 5 个项目里发布了 28 个版本 · 由 GitHub Actions 每 6 小时自动刷新</sub>
 <!-- RELEASES:END -->
 
 ## 🛠️ 技术栈
