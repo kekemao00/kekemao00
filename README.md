@@ -85,11 +85,11 @@
 <!-- RELEASES:START -->
 | 项目 | 最新版本 | 发布日期 |
 | :-- | :-: | :-: |
+| 🏷️ [**kaoju**](https://github.com/kekemao00/kaoju) | [`phase1b-public-v1`](https://github.com/kekemao00/kaoju/releases/tag/phase1b-public-v1) | 2026-11-11 |
 | 🏷️ [**android-bt-logger**](https://github.com/kekemao00/android-bt-logger) | [`v1.9.0`](https://github.com/kekemao00/android-bt-logger/releases/tag/v1.9.0) | 2026-10-21 |
 | 🏷️ [**ip-tool**](https://github.com/kekemao00/ip-tool) | [`v2.3.0`](https://github.com/kekemao00/ip-tool/releases/tag/v2.3.0) | 2026-10-16 |
 | 🏷️ [**contact-manager-swing**](https://github.com/kekemao00/contact-manager-swing) | [`v2.4.0`](https://github.com/kekemao00/contact-manager-swing/releases/tag/v2.4.0) | 2026-10-16 |
 | 🏷️ [**FileToolkit**](https://github.com/kekemao00/FileToolkit) | [`v1.9.1`](https://github.com/kekemao00/FileToolkit/releases/tag/v1.9.1) | 2026-10-12 |
-| 🏷️ [**daymark**](https://github.com/kekemao00/daymark) | [`v0.1.0`](https://github.com/kekemao00/daymark/releases/tag/v0.1.0) | 2026-10-10 |
 
 <sub>近 30 天在 4 个项目里发布了 11 个版本 · 由 GitHub Actions 每 6 小时自动刷新</sub>
 <!-- RELEASES:END -->
