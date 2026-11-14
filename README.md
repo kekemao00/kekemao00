@@ -91,7 +91,7 @@
 | 🏷️ [**contact-manager-swing**](https://github.com/kekemao00/contact-manager-swing) | [`v2.4.0`](https://github.com/kekemao00/contact-manager-swing/releases/tag/v2.4.0) | 2026-10-16 |
 | 🏷️ [**FileToolkit**](https://github.com/kekemao00/FileToolkit) | [`v1.9.1`](https://github.com/kekemao00/FileToolkit/releases/tag/v1.9.1) | 2026-10-12 |
 
-<sub>近 30 天在 4 个项目里发布了 11 个版本 · 由 GitHub Actions 每 6 小时自动刷新</sub>
+<sub>近 30 天在 4 个项目里发布了 10 个版本 · 由 GitHub Actions 每 6 小时自动刷新</sub>
 <!-- RELEASES:END -->
 
 ## 🛠️ 技术栈
